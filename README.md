@@ -1,62 +1,60 @@
 # Tours Control 🚀
 
-Este proyecto es una aplicación Java FX que permite el control de tours, con funciones de mantenimiento, facturación, búsqueda y visualización.
+This project is a JavaFX application that allows managing tours, with maintenance, billing, search, and visualization features.
 
-## Objetivo 🎯
+## Objective 🎯
 
-Aplicar de manera práctica los conocimientos adquiridos sobre Java FX, mediante la confección de un programa
-de control de tours, poniendo en práctica los conceptos estudiados de: clases, interfaces, herencia, polimorfismo, 
-CSS, entre otros.
+To practically apply the knowledge acquired about JavaFX by creating a tour management program, putting into practice the concepts studied such as classes, interfaces, inheritance, polymorphism, CSS, among others.
 
-![Captura de pantalla 2023-06-16 190324](https://github.com/Anthonyah131/Tours_Control/assets/105742243/1de3f2e9-4611-4197-a9b9-3205c724c68d)
+![Screenshot 2023-06-16 190324](https://github.com/Anthonyah131/Tours_Control/assets/105742243/1de3f2e9-4611-4197-a9b9-3205c724c68d)
 
-## Descripción del proyecto 📌
+## Project Description 📌
 
-El proyecto cumple con las siguientes especificaciones:
+The project meets the following specifications:
 
-- Pantalla inicial donde se visualizan los tours ordenados por proximidad de fecha gráficamente y con filtro por atributos.
-- Carrusel 3d con las imágenes del tour al ingresar a la información del mismo.
-- Mapa con la ruta trazada del tour marcando cada lugar del itinerario.
-- Opción para agregar las imágenes del tour por el diálogo de archivos o arrastrando los archivos a un elemento predefinido.
-- Funcionalidad de facturación de tour con drag and drop y generación de factura exportable a pdf.
-- Dos tipos de ingresos al sistema: administrador y cliente.
-- Estilos visuales asignados por medio del CSS.
-- Búsquedas tipo lista de ayuda en todos los mantenimientos.
-- Opción para buscar todos los tours realizados por un cliente en específico.
-- El proyecto viene con la información de 15 tours precargados.
-- El sistema es responsive.
+- Initial screen where tours are displayed, sorted by closest date, both graphically and with attribute-based filtering.
+- 3D carousel with tour images when viewing the tour’s detailed information.
+- Map with the tour route drawn, marking each place in the itinerary.
+- Option to add tour images via file dialog or by dragging and dropping files onto a predefined element.
+- Tour billing functionality with drag and drop and invoice generation exportable to PDF.
+- Two types of system access: administrator and client.
+- Visual styles assigned via CSS.
+- Search with type-ahead (helper list) in all maintenance modules.
+- Option to search for all tours carried out by a specific client.
+- The project comes with information for 15 preloaded tours.
+- The system is responsive.
 
-## Requisitos 📋
+## Requirements 📋
 
-Para ejecutar el proyecto se necesita:
+To run the project, you need:
 
 - Java 17
-- Java FX
-- Un IDE compatible con Java FX (Eclipse, NetBeans, IntelliJ IDEA)
+- JavaFX
+- An IDE compatible with JavaFX (Eclipse, NetBeans, IntelliJ IDEA)
 
-## Instalación 🔧
+## Installation 🔧
 
-Para instalar el proyecto se debe:
+To install the project, you must:
 
-- Descargar o clonar el repositorio del proyecto desde GitHub.
-- Abrir el proyecto en Netbeans y configurar las dependencias de JavaFX.
-- Ejecutar la clase Main del proyecto para iniciar el juego.
+- Download or clone the project repository from GitHub.
+- Open the project in NetBeans and configure the JavaFX dependencies.
+- Run the Main class of the project to start the application.
 
-## Ejecución 🚀
+## Execution 🚀
 
-Para ejecutar el proyecto se debe:
+To run the project, you must:
 
-- Abrir la clase principal del proyecto (Main.java) en el IDE.
-- Compilar y ejecutar el código desde el IDE o desde la línea de comandos.
+- Open the main class of the project (`Main.java`) in the IDE.
+- Compile and run the code from the IDE or from the command line.
 
-## Autores ✒️
+## Authors ✒️
 
-Este proyecto fue realizado por:
+This project was developed by:
 
-- Anthony Avila - Desarrollador
+- Anthony Ávila – Developer
 
-## Contacto 📞
+## Contact 📞
 
-Si tienes alguna duda, sugerencia o comentario sobre este proyecto, puedes contactarnos a través de los siguientes medios:
+If you have any questions, suggestions, or comments about this project, you can contact us through the following channel:
 
-- Correo electrónico: anthonyah131@gmail.com
+- Email: anthonyah131@gmail.com
